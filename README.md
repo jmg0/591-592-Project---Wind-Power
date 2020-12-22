@@ -1,4 +1,4 @@
-# 591-592-Project---Wind-Power
+# 591/592 Project - Wind Power
 
 This project conducts an analysis to determine the most optimal locations for wind turbine placement in the United States. The datasets, methodology, and documentation are included below.
 
